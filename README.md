@@ -1,2 +1,2 @@
 # Fraud-Detection
-Geno &amp; Larry group machine learning 
+Geno &amp; Larry group project machine learning 
