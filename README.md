@@ -8,11 +8,10 @@ install instructions
 https://ougabriel.medium.com/how-to-install-terraform-on-a-windows-system-5c48013fb814
 
 ### install aws cli 2.2
-windows cmd or ps
+windows cmd or ps then follow installer
 ```powershell
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.
 ```
-follow installer
 `aws --version`
 result greater than 2.2
 `aws-cli/2.27.31`
