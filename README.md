@@ -1,3 +1,16 @@
+# [Project Name]- 
+
+# Current Status
+
+# Project Overview
+
+
+**Technical Stack**
+# Hosting: 
+# CMS: WordPress
+# Storage: S3
+# Database: Redshift, DynamoDB
+# Security: 
 # Fraud-Detection
 Geno &amp; Larry group project machine learning 
 
